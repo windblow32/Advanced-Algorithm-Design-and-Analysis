@@ -1,13 +1,4 @@
 # -*- coding: utf-8 -*-
-'''
-@author: Neil.YU
-@license: (C) Copyright 2013-2018, Node Supply Chain Manager Corporation Limited.
-@contact: neil_yushengjian@foxmail.com
-@software: PyCharm 2018.1.2
-@file: main.py
-@time: 2020/4/6 14:21
-@desc:
-'''
 
 import random
 import time
